@@ -1,0 +1,38 @@
+#space__img {
+    width: 80%;
+    height: 80%
+}
+
+h1 {
+    display: flex;
+    font-size: 30px;
+    font-family:cursive
+}
+
+#img__date {
+    font-size: small;
+}
+
+#img__desc {
+    width: 80%;    
+}
+
+body {
+    border: solid 2px rgb(248, 49, 198);
+    padding-left: 25px;
+    padding-right: 10px;
+    margin-right: 25px;
+    padding-bottom: 10px;
+    width:65%;
+    background-image: linear-gradient(to right, rgb(77, 107, 136), rgb(179, 233, 179));
+    
+}
+
+html {
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    background-image: url("https://wallpaperaccess.com/full/4315899.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
